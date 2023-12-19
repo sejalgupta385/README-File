@@ -1,4 +1,4 @@
-//![alt text](https://ibb.co/w63Q4R4)
+//![Screenshot 2023-12-19 181037]([https://ibb.co/w63Q4R4](https://github.com/sejalgupta385/README-File/blob/main/Screenshot%202023-12-19%20181037.png))
 
 # README-File
 
