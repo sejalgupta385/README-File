@@ -1,7 +1,7 @@
 # README-File
 Our platform is  designed to redefine the student experience by connecting college students with mentors and experienced seniors.This platform will provide an integrated ecosystem that empowers students to navigate their educational and professional journeys with confidence and clarity.
 
-Our platform empowers students to break free from the confines of their immediate academic environment, fostering connections with mentors not only from their own college but also from institutions across the globe.This platform aims to fill the gap in educational support systems, offering a unique and essential resource for students, enabling them to maximize their academic potential and confidently steer their career pathways.
+Our system liberates students from the limitations of their immediate academic surroundings, facilitating meaningful connections with mentors not only within their own college but also extending globally across institutions. The core mission of our platform is to address the existing gaps in educational support systems, providing a distinctive and indispensable resource for students. This resource empowers them to unlock their full academic potential and navigate their career pathways with confidence
 
 With our platform, no student will have to journey alone; they will have the guidance and community they need to succeed.
 
