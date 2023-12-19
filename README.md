@@ -1,7 +1,10 @@
 # README-File
 Our platform is  designed to redefine the student experience by connecting college students with mentors and experienced seniors.This platform will provide an integrated ecosystem that empowers students to navigate their educational and professional journeys with confidence and clarity.
+
 Our platform empowers students to break free from the confines of their immediate academic environment, fostering connections with mentors not only from their own college but also from institutions across the globe.
 
+
+With our platform, no student will have to journey alone; they will have the guidance and community they need to succeed.
 
 ## Features
 - **Personalized Guidance:**  Students can connect with experienced seniors and mentors in their fields, fostering one-on-one interactions for tailored advice and support.
