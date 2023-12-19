@@ -1,4 +1,4 @@
-![alt text](https://ibb.co/w63Q4R4)
+//![alt text](https://ibb.co/w63Q4R4)
 
 # README-File
 
@@ -15,7 +15,7 @@
 - **Upload Resources:** Students can share and access a vast array of resources related to their field, creating a dynamic repository for academic and career development.
 - **Time-Saving Efficiency:** This platform will save time for both mentors and mentees, streamlining the mentoring process and allowing for more focused and effective interactions.
   
-## Tech Stack ⚒️
+## Tech Framework 
 
 **Client** 
 - React
