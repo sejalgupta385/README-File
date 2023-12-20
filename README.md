@@ -1,7 +1,6 @@
 ![Screenshot 2023-12-19 181037](https://github.com/sejalgupta385/README-File/assets/148670613/181e6ed0-b53e-4ae8-8e91-26775850b7be) 
-# *The optimisers*
+# *The Optimizers*
 
-# README-File
 Our platform is  designed to redefine the student experience by connecting college students with mentors and experienced seniors.This platform will provide an integrated ecosystem that empowers students to navigate their educational and professional journeys with confidence and clarity.
 
 This system empowers students to break free from the confines of their immediate academic environment, fostering connections with mentors not only from their own college but also from institutions across the globe.This platform aims to fill the gap in educational support systems, offering a unique and essential resource for students, enabling them to maximize their academic potential and confidently steer their career pathways.
